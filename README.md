@@ -30,7 +30,4 @@ This repository contains an implementation of an AI agent capable of playing the
 
 Contributions to the project are welcome! Whether it's optimizing the AI algorithm, improving the user interface, or adding new features, your contributions can enhance the overall gameplay experience. Fork the repository, make your changes, and submit a pull request.
 
-### **License**
-
-This project is licensed under the [MIT License](LICENSE).
 
